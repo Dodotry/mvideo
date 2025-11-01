@@ -7,3 +7,5 @@ curl 'https://gh.xmly.dev/https://raw.githubusercontent.com/Loyalsoldier/v2ray-r
 
 sed "s/^full://g;/^regexp:.*$/d;s/^/nameserver \//g;s/$/\/cn/g" -i /opt/smartdns/cn.conf
 
+sed "s/^full://g;/^regexp:.*$/d;s/^/nameserver \//g;s/$/\/oversea/g" -i /opt/smartdns/oversea.conf
+
