@@ -1,7 +1,8 @@
 #EXTM3U x-tvg-url="http://192.168.2.100:48080/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-08-15 18:46:47
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-08-16 02:31:09
 http://192.168.2.100:48080/hls/4805b4461f147d8653094b57.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://192.168.2.100:48080/hls/4805b4461f147d8653094b57.m3u8
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西卫视.png" group-title="📡卫视频道",广西卫视
-http://192.168.2.100:48080/hls/6ccbea220635236fc91ef582.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视.png" group-title="📡卫视频道",东方卫视
+#EXTVLCOPT:http-user-agent=AptvPlayer-UA
+http://192.168.2.100:48080/hls/e7a5bcbfce5eb1285bf0d19a.m3u8
