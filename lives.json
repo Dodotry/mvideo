@@ -1,0 +1,86 @@
+{
+    "lives": [
+        {
+            "name": "本地检测",
+            "type": 0,
+            "url": "http://dodotry.dpdns.org/raw.githubusercontent.com/Dodotry/mvideo/refs/heads/main/result.m3u",
+            "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
+        {
+            "name": "IPv6检测",
+            "type": 0,
+            "url": "https://gh.xmly.dev/https://raw.githubusercontent.com/Dodotry/mvideo/refs/heads/main/ipv6/result.m3u",
+            "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
+        {
+            "name": "☃️广东iptv4",
+            "type": 0,
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
+            "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
+        {
+            "name": "📡国内电视",
+            "type": 0,
+            "url": "https://live.hacks.tools/tv/iptv4.m3u",
+            "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
+        {
+            "name": "🚓广东联通",
+            "type": 0,
+            "url": "https://gitee.com/hw2837/iptv/raw/master/hw",
+            "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
+        {
+            "name": "🎤汕头电信",
+            "type": 0,
+            "url": "https://freetv.fun/test_channels_china_original_new.txt",
+            "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
+        {
+            "name": "🛰️港台直播",
+            "type": 0,
+            "url": "https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt",
+            "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
+        {
+            "name": "🗼广东电信iptv",
+            "type": 0,
+            "url": "https://gitee.com/hw2837/iptv/raw/master/iptv",
+            "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
+
+        {
+            "name": "Ⓜ️咪咕秒播migu",
+            "type": 0,
+            "url": "http://www.52top.com.cn:678/downloads/migu.txt",
+            "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        }
+    ]
+}
