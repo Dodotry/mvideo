@@ -1,0 +1,207 @@
+{
+  "sites": [
+    {
+      "key": "s0",
+      "name": "无意云",
+      "type": 4,
+      "api": "https://yc.wya6.cn/wykj.php"
+    },
+    {
+      "key": "s1",
+      "name": "白虾代理",
+      "type": 4,
+      "api": "https://jk.catvod.site/"
+    },
+    {
+      "key": "s2",
+      "name": "🚀肥猫线路",
+      "type": 4,
+      "api": "http://肥猫.net/tv"
+    },
+    {
+      "key": "s3",
+      "name": "🚀饭太硬线路",
+      "type": 4,
+      "api": "http://www.饭太硬.cc/tv/"
+    },
+    {
+      "key": "s4",
+      "name": "🚀饭太硬(备)",
+      "type": 4,
+      "api": "https://fty.xxooo.cf/"
+    },
+    {
+      "key": "s5",
+      "name": "鱼妖线路",
+      "type": 4,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/cyao2q/files/59b5fbfdf84fdef810c50d8f4c3a8f36689bc86f/ok.json"
+    },
+    {
+      "key": "s6",
+      "name": "宝盒(主)",
+      "type": 4,
+      "api": "https://xn--6orr3pi6g9uu.top"
+    },
+    {
+      "key": "s7",
+      "name": "宝盒线路",
+      "type": 4,
+      "api": "https://gh.xmly.dev/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json"
+    },
+    {
+      "key": "s8",
+      "name": "🚀LIUCN线路",
+      "type": 4,
+      "api": "https://raw.liucn.cc/box/m.json"
+    },
+    {
+      "key": "s9",
+      "name": "七星线路",
+      "type": 4,
+      "api": "https://7337.kstore.vip/qxys/禁止传播.json"
+    },
+    {
+      "key": "s10",
+      "name": "蜗牛线路",
+      "type": 4,
+      "api": "https://tv.xn--11x555b.top/svip"
+    },
+    {
+      "key": "s11",
+      "name": "🚀王小二",
+      "type": 4,
+      "api": "https://www.xn--4kq62z5rby2qupq9ub.top/"
+    },
+    {
+      "key": "s12",
+      "name": "🚀讴歌线路",
+      "type": 4,
+      "api": "https://tv.nxog.top/m/111.php"
+    },
+    {
+      "key": "s13",
+      "name": "🚀香雅情线",
+      "type": 4,
+      "api": "https://gh.xmly.dev/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
+    },
+    {
+      "key": "s14",
+      "name": "🚀高天流云",
+      "type": 4,
+      "api": "https://gh.xmly.dev/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+    },
+    {
+      "key": "s15",
+      "name": "🚀俊佬线路",
+      "type": 4,
+      "api": "http://home.jundie.top:81/top98.json"
+    },
+    {
+      "key": "s16",
+      "name": "月光线路",
+      "type": 4,
+      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/max.json"
+    },
+    {
+      "key": "s17",
+      "name": "🚀高天流云js",
+      "type": 4,
+      "api": "https://gh.xmly.dev/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+    },
+    {
+      "key": "s18",
+      "name": "🚀香佬线路",
+      "type": 4,
+      "api": "https://gh.xmly.dev/https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json"
+    },
+    {
+      "key": "s19",
+      "name": "🚀高天流云XYQ",
+      "type": 4,
+      "api": "https://gh.xmly.dev/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
+    }
+  ],
+  "lives": [
+    {
+      "name": "本地检测",
+      "type": 0,
+      "url": "http://dodotry.dpdns.org/raw.githubusercontent.com/Dodotry/mvideo/refs/heads/main/result.m3u",
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "IPv6检测",
+      "type": 0,
+      "url": "https://gh.xmly.dev/https://raw.githubusercontent.com/Dodotry/mvideo/refs/heads/main/ipv6/result.m3u",
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "☃️广东iptv4",
+      "type": 0,
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "📡国内电视",
+      "type": 0,
+      "url": "https://live.hacks.tools/tv/iptv4.m3u",
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "🚓广东联通",
+      "type": 0,
+      "url": "https://gitee.com/hw2837/iptv/raw/master/hw",
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "🎤汕头电信",
+      "type": 0,
+      "url": "https://freetv.fun/test_channels_china_original_new.txt",
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "🛰️港台直播",
+      "type": 0,
+      "url": "https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt",
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "🗼广东电信iptv",
+      "type": 0,
+      "url": "https://gitee.com/hw2837/iptv/raw/master/iptv",
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "Ⓜ️咪咕秒播migu",
+      "type": 0,
+      "url": "http://www.52top.com.cn:678/downloads/migu.txt",
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    }
+  ]
+}
