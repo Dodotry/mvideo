@@ -1,125 +1,25 @@
 {
-  "sites": [
-    {
-      "key": "s0",
-      "name": "无意云",
-      "type": 1,
-      "api": "https://yc.wya6.cn/wykj.php"
-    },
-    {
-      "key": "s1",
-      "name": "白虾代理",
-      "type": 1,
-      "api": "https://jk.catvod.site/"
-    },
-    {
-      "key": "s2",
-      "name": "🚀肥猫线路",
-      "type": 1,
-      "api": "http://肥猫.net/tv"
-    },
-    {
-      "key": "s3",
-      "name": "🚀饭太硬线路",
-      "type": 1,
-      "api": "http://www.饭太硬.cc/tv/"
-    },
-    {
-      "key": "s4",
-      "name": "🚀饭太硬(备)",
-      "type": 1,
-      "api": "https://fty.xxooo.cf/"
-    },
-    {
-      "key": "s5",
-      "name": "鱼妖线路",
-      "type": 1,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/cyao2q/files/59b5fbfdf84fdef810c50d8f4c3a8f36689bc86f/ok.json"
-    },
-    {
-      "key": "s6",
-      "name": "宝盒(主)",
-      "type": 1,
-      "api": "https://xn--6orr3pi6g9uu.top"
-    },
-    {
-      "key": "s7",
-      "name": "宝盒线路",
-      "type": 1,
-      "api": "https://gh.xmly.dev/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json"
-    },
-    {
-      "key": "s8",
-      "name": "🚀LIUCN线路",
-      "type": 1,
-      "api": "https://raw.liucn.cc/box/m.json"
-    },
-    {
-      "key": "s9",
-      "name": "七星线路",
-      "type": 1,
-      "api": "https://7337.kstore.vip/qxys/禁止传播.json"
-    },
-    {
-      "key": "s10",
-      "name": "蜗牛线路",
-      "type": 1,
-      "api": "https://tv.xn--11x555b.top/svip"
-    },
-    {
-      "key": "s11",
-      "name": "🚀王小二",
-      "type": 1,
-      "api": "https://www.xn--4kq62z5rby2qupq9ub.top/"
-    },
-    {
-      "key": "s12",
-      "name": "🚀讴歌线路",
-      "type": 1,
-      "api": "https://tv.nxog.top/m/111.php"
-    },
-    {
-      "key": "s13",
-      "name": "🚀香雅情线",
-      "type": 1,
-      "api": "https://gh.xmly.dev/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
-    },
-    {
-      "key": "s14",
-      "name": "🚀高天流云",
-      "type": 1,
-      "api": "https://gh.xmly.dev/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
-    },
-    {
-      "key": "s15",
-      "name": "🚀俊佬线路",
-      "type": 1,
-      "api": "http://home.jundie.top:81/top98.json"
-    },
-    {
-      "key": "s16",
-      "name": "月光线路",
-      "type": 1,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/max.json"
-    },
-    {
-      "key": "s17",
-      "name": "🚀高天流云js",
-      "type": 1,
-      "api": "https://gh.xmly.dev/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
-    },
-    {
-      "key": "s18",
-      "name": "🚀香佬线路",
-      "type": 1,
-      "api": "https://gh.xmly.dev/https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json"
-    },
-    {
-      "key": "s19",
-      "name": "🚀高天流云XYQ",
-      "type": 1,
-      "api": "https://gh.xmly.dev/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
-    }
+  "urls": [
+    "https://yc.wya6.cn/wykj.php",
+    "https://jk.catvod.site/",
+    "http://肥猫.net/tv",
+    "http://www.饭太硬.cc/tv/",
+    "https://fty.xxooo.cf/",
+    "https://ghfast.top/https://raw.githubusercontent.com/cyao2q/files/59b5fbfdf84fdef810c50d8f4c3a8f36689bc86f/ok.json",
+    "https://xn--6orr3pi6g9uu.top",
+    "https://gh.xmly.dev/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
+    "https://raw.liucn.cc/box/m.json",
+    "https://7337.kstore.vip/qxys/禁止传播.json",
+    "https://tv.xn--11x555b.top/svip",
+    "https://www.xn--4kq62z5rby2qupq9ub.top/",
+    "https://tv.nxog.top/m/111.php",
+    "https://gh.xmly.dev/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+    "https://gh.xmly.dev/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+    "http://home.jundie.top:81/top98.json",
+    "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/max.json",
+    "https://gh.xmly.dev/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+    "https://gh.xmly.dev/https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json",
+    "https://gh.xmly.dev/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
   ],
   "lives": [
     {
