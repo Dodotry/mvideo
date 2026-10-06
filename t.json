@@ -4,7 +4,7 @@
             "url": "https://yc.wya6.cn/wykj.php",
             "name": "无意云"
         },
-	{   "url":"https://gh.xmly.dev/https://raw.githubusercontent.com/Dodotry/mvideo/refs/heads/main/cl.json",
+	{   "url":"https://dt.cloudns.ch/https://raw.githubusercontent.com/Dodotry/mvideo/refs/heads/main/cl.json",
             "name": "组装"
 	},
         {
@@ -32,7 +32,7 @@
             "name": "宝盒(主)"
         },
         {
-            "url": "https://gh.xmly.dev/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
+            "url": "https://dt.cloudns.ch/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
             "name": "宝盒线路"
         },
         {
@@ -52,11 +52,11 @@
             "name": "🚀讴歌线路"
         },
         {
-            "url": "https://gh.xmly.dev/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "url": "https://dt.cloudns.ch/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "🚀香雅情线"
         },
         {
-            "url": "https://gh.xmly.dev/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "url": "https://dt.cloudns.ch/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🚀高天流云"
         },
         {
@@ -64,15 +64,15 @@
             "name": "🚀俊佬线路"
         },
         {
-            "url": "https://gh.xmly.dev/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "url": "https://dt.cloudns.ch/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🚀高天流云js"
         },
         {
-            "url": "https://gh.xmly.dev/https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json",
+            "url": "https://dt.cloudns.ch/https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json",
             "name": "🚀香佬线路"
         },
         {
-            "url": "https://gh.xmly.dev/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "url": "https://dt.cloudns.ch/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "🚀高天流云XYQ"
         }
     ],
@@ -80,7 +80,7 @@
         {
             "name": "本地检测",
             "type": 0,
-            "url": "https://gh.xmly.dev/https://raw.githubusercontent.com/Dodotry/mvideo/refs/heads/main/result.m3u",
+	    "url":"https://dt.cloudns.ch/https://raw.githubusercontent.com/Dodotry/mvideo/refs/heads/main/result.m3u",
             "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
             "logo": "https://gongdian.top/tv/taibiao/{name}.png",
             "playerType": 2,
@@ -89,7 +89,7 @@
         {
             "name": "IPv6检测",
             "type": 0,
-            "url": "https://gh.xmly.dev/https://raw.githubusercontent.com/Dodotry/mvideo/refs/heads/main/ipv6/result.m3u",
+            "url": "https://dt.cloudns.ch/https://raw.githubusercontent.com/Dodotry/mvideo/refs/heads/main/ipv6/result.m3u",
             "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
             "logo": "https://gongdian.top/tv/taibiao/{name}.png",
             "playerType": 2,

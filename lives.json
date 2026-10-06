@@ -3,7 +3,7 @@
         {
             "name": "本地检测",
             "type": 0,
-            "url": "https://gh.xmly.dev/https://raw.githubusercontent.com/Dodotry/mvideo/refs/heads/main/result.m3u",
+            "url": "https://dt.cloudns.ch/https://raw.githubusercontent.com/Dodotry/mvideo/refs/heads/main/result.m3u",
             "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
             "logo": "https://gongdian.top/tv/taibiao/{name}.png",
             "playerType": 2,
@@ -12,7 +12,7 @@
         {
             "name": "IPv6检测",
             "type": 0,
-            "url": "https://gh.xmly.dev/https://raw.githubusercontent.com/Dodotry/mvideo/refs/heads/main/ipv6/result.m3u",
+            "url": "https://dt.cloudns.ch/https://raw.githubusercontent.com/Dodotry/mvideo/refs/heads/main/ipv6/result.m3u",
             "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
             "logo": "https://gongdian.top/tv/taibiao/{name}.png",
             "playerType": 2,
